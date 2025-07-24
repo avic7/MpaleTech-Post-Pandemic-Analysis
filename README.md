@@ -41,6 +41,8 @@ MapleTech’s sales analysis of almost 113k records from 2019-2022 reveals total
 - The company exhibits clear seasonality, with peak sales occurring in November and December, especially driven by holiday and promotional periods, while February and October consistently record lower revenues. Monthly trends show pronounced spikes in Q4 across all years, aligning with global shopping events.
 - MapleTech’s Average Order Value (AOV) steadily increased from $490 in 2019 to $589 in 2022, reflecting a shift towards higher-value purchases even as overall order volume decreased. Order count growth peaked at 87% in 2020, followed by declines of 12% in 2021 and 21% in 2022, indicating challenges in sustaining customer demand post-pandemic.
 - Regionally, North America and Europe dominate sales contributions, with emerging yet volatile growth observed in Asia and South America during the pandemic period. These regions present further opportunities for stabilization and growth through targeted strategies.
+<img width="1280" height="260" alt="image" src="https://github.com/user-attachments/assets/2dfe6287-ecca-470d-b747-c36f0b82e57c" />
+<img width="1652" height="813" alt="image" src="https://github.com/user-attachments/assets/7295f1f8-70a2-4503-aa86-b3696159be73" />
 
 ### Product Performance
 
@@ -48,6 +50,7 @@ MapleTech’s sales analysis of almost 113k records from 2019-2022 reveals total
 - Collectively, these top three products — JBL Earbuds, Anker Chargers, and ASUS Displays — contribute 72% of total revenue, highlighting MapleTech’s dependence on a limited product mix. In contrast, products like the Sony WH-1000XM5 Headphones and LG UltraFine 5K Monitor underperform, each contributing less than 1% of revenue despite moderate order volumes.
 - The MacBook Air Laptop, while leading in order volume with 28,398 units (25% of all orders), generates only 18% of total revenue due to its comparatively lower Average Order Value (AOV) of $391. In contrast, Anker Chargers and ASUS Displays boast AOVs above $1,000, reflecting their premium positioning.
 - This skewed revenue concentration suggests an opportunity for MapleTech to expand its successful product categories while re-evaluating low-contribution items to optimize profitability and inventory strategies.
+<img width="1280" height="460" alt="image" src="https://github.com/user-attachments/assets/18b45505-1c81-4b3f-b213-34d4ca8fdec6" />
 
 ### Loyalty Program Performance
 
@@ -56,6 +59,9 @@ MapleTech’s sales analysis of almost 113k records from 2019-2022 reveals total
 - In terms of order count, loyalty members placed 50,211 orders, while non-loyalty customers placed 62,688 orders. Loyalty customers also maintained a more stable order volume, experiencing smaller declines than non-loyalty members post-pandemic.
 - Refund rates remain identical between segments, averaging 10% for both loyalty and non-loyalty purchases across the period — indicating that loyalty participation did not negatively impact product satisfaction or returns.
 - While the loyalty program has driven higher spending per order, MapleTech can further enhance its effectiveness by refining incentives and re-engagement strategies, especially as growth rates have slowed since 2021.
+<img width="1280" height="204" alt="image" src="https://github.com/user-attachments/assets/d60ebc5d-06eb-4b2a-bff7-62f1fe4034e2" />
+<img width="1640" height="472" alt="image" src="https://github.com/user-attachments/assets/b341676f-4600-46d2-9878-cfddd2bf41d4" />
+
 
 ### Sales by Platforms & Marketing Channels
 
@@ -63,12 +69,14 @@ MapleTech’s sales analysis of almost 113k records from 2019-2022 reveals total
 - In terms of Average Order Value (AOV), the email channel leads with an AOV of $555, closely followed by direct and affiliate channels, both around $544-$547. Social media trails slightly at $546, while the unclassified (blank) channel matches the email AOV.
 - From a platform perspective, the website drives 97.4% ($60.3M) of total revenue with an AOV of $551, while the mobile app contributes just 2.6% ($1.6M) with a lower AOV of $470. The app also trails significantly in order volume, with only 3,419 orders compared to 109,511 on the website.
 - These trends highlight opportunities for MapleTech to enhance affiliate and social media strategies and to optimize the mobile app experience to increase its sales contribution and average order value.
+<img width="1280" height="292" alt="image" src="https://github.com/user-attachments/assets/e8849120-fe67-42f1-b491-7b063753cfcb" />
 
 ### Refund Rates Impact Based on Loyalty
 
 - Refund rates at MapleTech peaked in 2020 and 2021, coinciding with pandemic-driven demand surges. Both loyalty and non-loyalty customers recorded a 12% refund rate during these years, compared to 6% in 2019 and 2022, indicating that post-pandemic purchase stability helped reduce returns.
 - Across the full period, the overall refund rate averages 10% for both loyalty and non-loyalty segments, suggesting that loyalty participation did not lead to increased returns. The highest refund counts occurred in 2020, with non-loyalty customers recording 2,493 refunds and loyalty members 1,857 refunds.
 - Refund volumes stabilized in 2022, with both segments showing approximately 6% refund rates, returning to pre-pandemic levels. This improvement reflects operational enhancements in product quality and customer satisfaction initiatives.
+<img width="1280" height="362" alt="image" src="https://github.com/user-attachments/assets/44ae3092-5f62-4abd-ab07-16379f256c64" />
 
 ---
 
