@@ -134,7 +134,13 @@ MapleTech’s sales analysis of almost 113k records from 2019-2022 reveals total
 ### Assumptions and Caveats
 
 - **Refund Records Completeness**: Refund data appears comprehensive, with both loyalty and non-loyalty customers showing a consistent overall refund rate of 10%. However, refund percentages held constant across loyalty tiers — this may indicate uniform return policies, but warrants validation with operational teams.
+
 - **Deterministic Data Mapping**: A one-to-one relationship is observed between marketing channels and account creation methods, which limits insights on multi-channel impacts across a customer’s lifecycle. This static mapping may restrict advanced attribution modeling and should be verified with data engineering.
+
+<img width="519" height="129" alt="image" src="https://github.com/user-attachments/assets/48a91775-d202-42b9-a29f-84ee8bb64e60" />
+
+
+
 - **Loyalty Program Interpretation**: The dataset does not clarify whether the loyalty_program flag changes over time per customer. This ambiguity affects the analysis of repeat purchase behavior and loyalty-driven performance. Clarification is needed on whether a user’s loyalty status is permanent post-enrollment.
 - **Attribution of Purchases to Channels**: Current data reflects only the initial account creation channel, not the channel directly influencing each transaction. This limits accurate channel-level sales attribution.
   - Direct Channel: Accounts for 83% of total sales.
