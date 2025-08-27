@@ -23,7 +23,7 @@
 
 ## Project Background
 
-MapleTech, a global e-commerce company founded in 2017, specializes in selling premium electronics and accessories such as JBL, Apple, Anker, and ASUS products. I’m collaborating with the Head of Business Strategy to extract data-driven insights and deliver actionable recommendations to improve performance across sales, product lines, customer retention, and marketing channels.
+MapleTech, a global e-commerce company founded in 2017, specializes in selling premium electronics and accessories such as JBL, Apple, Anker, and ASUS products. I’m collaborating with the Head of Business Strategy to extract data-driven insights and deliver recommendations to cross-functional teams, including Sales, Marketing, and Product, to improve performance across product lines, customer retention, and marketing channels.
 
 ---
 
