@@ -23,7 +23,7 @@
 
 ## Project Background
 
-MapleTech, a global e-commerce company founded in 2017, specializes in selling premium electronics and accessories such as JBL, Apple, Anker, and ASUS products. I’m collaborating with the Head of Business Strategy to extract data-driven insights and deliver recommendations to cross functional teams, including Sales, Marketing, and Product, to improve performance across product lines, customer retention, and marketing channels.
+MapleTech, a global e-commerce company founded in 2017, specializes in selling premium electronics and accessories such as JBL, Apple, Anker, and ASUS products. I’m collaborating with the Head of Business Strategy to extract data-driven insights and deliver actionable recommendations to improve performance across sales, product lines, customer retention, and marketing channels.
 
 ---
 
@@ -37,28 +37,31 @@ MapleTech’s sales analysis of almost 113k records from 2019-2022 reveals total
 
 ### Sales Trends and Growth Rates
 
-- MapleTech averages $15.5 million in annual sales with approximately 28,000 orders per year between 2019 and 2022. Sales more than doubled in 2020, growing by 105% compared to 2019, driven by the surge in remote work and digital adoption during the pandemic. However, sales began tapering off post-pandemic, with an 8% decline in 2021 and an additional 18% drop in 2022, bringing annual revenue down to $14.8 million, though still above pre-pandemic levels.
-- The company exhibits clear seasonality, with peak sales occurring in November and December, especially driven by holiday and promotional periods, while February and October consistently record lower revenues. Monthly trends show pronounced spikes in Q4 across all years, aligning with global shopping events.
-- MapleTech’s Average Order Value (AOV) steadily increased from $490 in 2019 to $589 in 2022, reflecting a shift towards higher-value purchases even as overall order volume decreased. Order count growth peaked at 87% in 2020, followed by declines of 12% in 2021 and 21% in 2022, indicating challenges in sustaining customer demand post-pandemic.
-- Regionally, North America and Europe dominate sales contributions, with emerging yet volatile growth observed in Asia and South America during the pandemic period. These regions present further opportunities for stabilization and growth through targeted strategies.
+- Sales surged 105% in 2020 during the pandemic boom, but declined by 8% in 2021 and 18% in 2022 — settling at $14.8M, still above pre-pandemic levels.
+- Clear seasonality emerged, with consistent Q4 spikes (Nov–Dec) driven by holiday events, while February and October remained slow months.
+- Average Order Value (AOV) rose from $490 to $589 between 2019–2022, even as order volume dropped — reflecting a shift toward higher-ticket purchases.
+- North America and Europe led in sales, but Asia and South America showed volatile growth, highlighting potential for expansion through localized strategies.
+
 <img width="1280" height="260" alt="image" src="https://github.com/user-attachments/assets/2dfe6287-ecca-470d-b747-c36f0b82e57c" />
 <img width="1652" height="813" alt="image" src="https://github.com/user-attachments/assets/7295f1f8-70a2-4503-aa86-b3696159be73" />
 
 ### Product Performance
 
-- During the pandemic, MapleTech saw significant sales concentration around premium accessories and audio devices. The JBL Live Pro+ Earbuds emerged as the highest revenue generator, contributing $19 million or 31% of total revenue. Similarly, Anker USB-C Chargers and ASUS ProArt Displays became major revenue drivers, accounting for 23% and 18% of total sales, respectively.
-- Collectively, these top three products — JBL Earbuds, Anker Chargers, and ASUS Displays — contribute 72% of total revenue, highlighting MapleTech’s dependence on a limited product mix. In contrast, products like the Sony WH-1000XM5 Headphones and LG UltraFine 5K Monitor underperform, each contributing less than 1% of revenue despite moderate order volumes.
-- The MacBook Air Laptop, while leading in order volume with 28,398 units (25% of all orders), generates only 18% of total revenue due to its comparatively lower Average Order Value (AOV) of $391. In contrast, Anker Chargers and ASUS Displays boast AOVs above $1,000, reflecting their premium positioning.
-- This skewed revenue concentration suggests an opportunity for MapleTech to expand its successful product categories while re-evaluating low-contribution items to optimize profitability and inventory strategies.
+- JBL Live Pro+ Earbuds led product sales, contributing $19M (31% of revenue), with Anker USB-C Chargers and ASUS ProArt Displays adding 23% and 18% respectively — showing strong demand for premium accessories and audio gear.
+- Top 3 products account for 72% of total revenue, revealing MapleTech’s reliance on a narrow product mix. Underperformers like Sony WH-1000XM5 and LG UltraFine 5K each contributed under 1% despite moderate sales.
+- MacBook Air had the highest order volume (28,398 units, 25% of orders) but lower AOV ($391), generating only 18% of revenue — unlike Anker and ASUS products with AOVs above $1,000.
+- Skewed revenue distribution signals an opportunity to double down on high performers and reassess low-yield products to improve profitability and optimize inventory.
+
 <img width="1280" height="460" alt="image" src="https://github.com/user-attachments/assets/18b45505-1c81-4b3f-b213-34d4ca8fdec6" />
 
 ### Loyalty Program Performance
 
-- Loyalty members consistently outperform non-loyalty customers across key metrics, though the gap has narrowed post-pandemic. Between 2019 and 2022, loyalty members generated $27.6 million in revenue, while non-loyalty customers contributed $34.2 million. Despite the revenue gap, loyalty members achieved a higher Average Order Value (AOV) of $551 compared to $546 for non-loyalty customers.
-- Loyalty sales grew rapidly during the pandemic, peaking in 2020 with a 118% growth rate, compared to 96% growth for non-loyalty sales. However, both segments saw negative growth after 2020, with loyalty sales declining by 12% in 2022, and non-loyalty sales dropping 23%.
-- In terms of order count, loyalty members placed 50,211 orders, while non-loyalty customers placed 62,688 orders. Loyalty customers also maintained a more stable order volume, experiencing smaller declines than non-loyalty members post-pandemic.
-- Refund rates remain identical between segments, averaging 10% for both loyalty and non-loyalty purchases across the period — indicating that loyalty participation did not negatively impact product satisfaction or returns.
-- While the loyalty program has driven higher spending per order, MapleTech can further enhance its effectiveness by refining incentives and re-engagement strategies, especially as growth rates have slowed since 2021.
+- Loyalty members generated $27.6M in revenue (vs. $34.2M from non-loyalty) between 2019–2022, while maintaining a higher AOV of $551 compared to $546 — though the performance gap has narrowed post-pandemic.
+- Loyalty sales peaked with 118% growth in 2020, outpacing the 96% growth of non-loyalty customers. However, by 2022, both segments declined — loyalty sales dropped 12%, non-loyalty fell 23%.
+- Loyalty members placed 50,211 orders vs. 62,688 from non-loyalty customers. Despite fewer orders, loyalty users showed more stable order volumes during the post-pandemic decline.
+- Refund rates averaged 10% for both groups, showing no negative impact from loyalty participation on product satisfaction or returns.
+- To boost loyalty effectiveness, MapleTech should refine program incentives and re-engagement strategies, especially as growth momentum has slowed since 2021.
+
 <img width="1280" height="204" alt="image" src="https://github.com/user-attachments/assets/d60ebc5d-06eb-4b2a-bff7-62f1fe4034e2" />
 <img width="1640" height="472" alt="image" src="https://github.com/user-attachments/assets/b341676f-4600-46d2-9878-cfddd2bf41d4" />
 
@@ -73,9 +76,10 @@ MapleTech’s sales analysis of almost 113k records from 2019-2022 reveals total
 
 ### Refund Rates Impact Based on Loyalty
 
-- Refund rates at MapleTech peaked in 2020 and 2021, coinciding with pandemic-driven demand surges. Both loyalty and non-loyalty customers recorded a 12% refund rate during these years, compared to 6% in 2019 and 2022, indicating that post-pandemic purchase stability helped reduce returns.
-- Across the full period, the overall refund rate averages 10% for both loyalty and non-loyalty segments, suggesting that loyalty participation did not lead to increased returns. The highest refund counts occurred in 2020, with non-loyalty customers recording 2,493 refunds and loyalty members 1,857 refunds.
-- Refund volumes stabilized in 2022, with both segments showing approximately 6% refund rates, returning to pre-pandemic levels. This improvement reflects operational enhancements in product quality and customer satisfaction initiatives.
+- Refund rates peaked at 12% in 2020 and 2021 for both loyalty and non-loyalty customers, reflecting pandemic-related volatility. Rates dropped to 6% in 2019 and 2022, signaling restored purchase stability.
+- Overall refund rate averaged 10% across all segments, with no significant difference between loyalty and non-loyalty customers — confirming that loyalty participation did not increase return risk.
+- Refund volumes normalized in 2022, with both groups returning to 6% refund rates. This trend reflects improvements in product quality and customer satisfaction post-pandemic.
+
 <img width="1280" height="362" alt="image" src="https://github.com/user-attachments/assets/44ae3092-5f62-4abd-ab07-16379f256c64" />
 
 ---
@@ -84,14 +88,16 @@ MapleTech’s sales analysis of almost 113k records from 2019-2022 reveals total
 
 ### Maximizing Product Offerings
 
-- Expand High-Performing Categories: Increase product variations in JBL Earbuds, Anker USB-C Chargers, and ASUS ProArt Displays, which together contribute 72% of total revenue. Focus on bundling accessories with premium products to encourage higher basket sizes and repeat purchases.
-- Optimize Low-Performing Products: Reevaluate pricing and promotion strategies for products like the Sony WH-1000XM5 Headphones and LG UltraFine 5K Monitor, which contribute less than 1% of total revenue despite decent order volumes.
+- Expand high-performing categories like JBL Earbuds, Anker Chargers, and ASUS Displays which drive 72% of total revenue by introducing product variations and bundling strategies to boost basket size and repeat purchases.
+- Optimize or reposition low-performing products such as Sony WH-1000XM5 and LG UltraFine 5K Monitor by reassessing pricing, promotional tactics, and inventory alignment to improve their contribution.
+
+
 
 ### Customer Growth and Retention
 
-- Boost Repeat Purchases: Develop targeted re-engagement campaigns for customers with single purchases, leveraging loyalty data to create personalized incentives. Introduce tiered rewards within the loyalty program to encourage higher frequency of purchases.
-- Revitalize Customer Acquisition: Strengthen underutilized marketing channels, particularly affiliate (3% of sales) and social media (1%), by partnering with influencers and offering enhanced commission rates. This will diversify acquisition efforts beyond the dominant direct channel (83% of sales).
-- Leverage Core Customer Insights: Analyze purchasing behaviors of loyalty members, who show a higher AOV ($551 vs $546 for non-loyalty), to tailor marketing messages and drive upselling strategies.
+- Boost repeat purchases by launching re-engagement campaigns for one-time buyers, using loyalty data to craft personalized incentives and introducing tiered rewards to drive purchase frequency.
+- Revitalize acquisition channels like affiliate (3% of sales) and social media (1%) through influencer partnerships and improved commission structures  reducing reliance on the dominant direct channel (83%).
+- Leverage loyalty purchasing insights to tailor marketing strategies and upsell opportunities, capitalizing on the higher AOV among loyalty members ($551 vs. $546).
 
 ### Loyalty Program Enhancements
 
