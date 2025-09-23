@@ -1,8 +1,5 @@
 # MapleTech Post-Pandemic Analysis
 
-*For more of my projects and data work, visit my [Portfolio](#).*
-
----
 
 ## Table of Contents
 
