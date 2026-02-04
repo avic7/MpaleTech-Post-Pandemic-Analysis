@@ -187,9 +187,9 @@
 
 <table align="center">
   <tr>
-    <td width="1000">
+    <td width="1000" align="left">
       <h2 align="center">Questions, Assumptions and Caveats</h2>
-      
+
       <h3>Questions for Stakeholders</h3>
       <ul>
         <li><strong>Unmatched Records:</strong> What percentage of orders lack a corresponding <code>customer_id</code>? Determining the "Source of Truth" table is critical for accurate retention analysis.</li>
@@ -201,6 +201,8 @@
         <li><strong>Refund Records:</strong> Refund data appears comprehensive (10% avg), but the consistent percentages across tiers suggest a potential data artifact that warrants validation.</li>
         <li><strong>Mobile Performance:</strong> The mobile app's underperformance is assumed to be a UX issue, but could also be related to a difference in user demographics on that platform.</li>
       </ul>
+
+      <br>
       <div align="center">
         <img src="https://github.com/user-attachments/assets/48a91775-d202-42b9-a29f-84ee8bb64e60" width="500" />
       </div>
