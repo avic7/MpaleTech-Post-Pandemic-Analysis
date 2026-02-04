@@ -185,9 +185,9 @@
       </ul>
 </table>
 
-<table align="center">
+<table>
   <tr>
-    <td width="1000" align="left">
+    <td align="left">
       <h2 align="center">Questions, Assumptions and Caveats</h2>
 
       <h3>Questions for Stakeholders</h3>
