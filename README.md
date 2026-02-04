@@ -190,6 +190,22 @@
   </tr>
 </table>
 
+
+<table align="center">
+  <h1 align="center">Power BI Dashboard</h1>
+  
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/5e46fd83-46e7-4f80-abe6-33af39233e2f" width="100%" />
+    <img src="https://github.com/user-attachments/assets/77173d99-c4d6-488d-9824-114eb8994a67" width="100%" />
+    <br><br>
+    <a href="https://app.powerbi.com/links/hnDwf5UHS4?ctid=1e8e4649-0a9f-46a9-bb55-6b5c118e04f3&pbi_source=linkShare">
+      <img src="https://img.shields.io/badge/View_Live_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Dashboard" />
+    </a>
+  </div>
+
+  <br>
+</table>
+
 <table align="center">
     <h1>Recommendations</h1>
     <h4>Based on the uncovered insights, here are actionable items that MapleTech can take away from our analysis.</h4>
