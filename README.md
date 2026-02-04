@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/1200px-Orange_logo.svg.png" />
+  <img width="300px" src="https://github.com/user-attachments/assets/8312ed07-4f8c-4793-83b9-ff98ba570753" />
 </div>
 
-<h1 align="center">MapleTech Performance Report</h1>
+<h1 align="center">MapleTech Performance Report (2019-2022)</h1>
 
 <table align="center">
   <tr>
