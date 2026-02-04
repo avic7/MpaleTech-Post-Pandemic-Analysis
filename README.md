@@ -38,8 +38,7 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Revenue & Growth Analysis (2019–2022)</h3>
       <div align="center">
-        <img width="1000" alt="Sales revenue graph from 2019 to 2022" <img src="https://github.com/user-attachments/assets/d75ff941-8eac-47ff-9ed1-580109e27045" />
-" width="800" />
+        <img width="1000" alt="Sales revenue graph from 2019 to 2022" <img src="https://github.com/user-attachments/assets/d75ff941-8eac-47ff-9ed1-580109e27045" width="800" />
       </div>
       <td width="460" valign="top">
         <ol>
