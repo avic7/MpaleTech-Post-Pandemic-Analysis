@@ -38,7 +38,8 @@
       <h1 align="center">Executive Summary</h1>
       <h3 align="center">Revenue & Growth Analysis (2019–2022)</h3>
       <div align="center">
-        <img width="1000" alt="Sales revenue graph from 2019 to 2022" <img src="https://github.com/user-attachments/assets/8532083c-10cd-4157-97b4-ab653a16bd3a" width="800" />
+        <img width="1000" alt="Sales revenue graph from 2019 to 2022" <img src="https://github.com/user-attachments/assets/d75ff941-8eac-47ff-9ed1-580109e27045" />
+" width="800" />
       </div>
       <td width="460" valign="top">
         <ol>
@@ -79,6 +80,17 @@
       </td>
     </div>
   </tr>
+</table>
+
+<table align="center">
+  <h2 align="center">Dataset Structure & ERD</h2>
+  
+  <div align="center">
+    The database structure consists of four core tables: <code>orders</code>, <code>customers</code>, <code>geo_lookup</code>, and <code>order_status</code>, containing approximately 113,000 records.
+    <br><br>
+    <img src="https://github.com/user-attachments/assets/1e98cf54-7e78-42a3-85ab-0f34f36f789c" />
+" width="70%" />
+  </div>
 </table>
 
 <h1 align="center">Insights Deep-Dive</h1>
