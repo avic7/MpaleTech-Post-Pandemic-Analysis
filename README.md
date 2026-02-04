@@ -87,8 +87,7 @@
   <div align="center">
     The database structure consists of four core tables: <code>orders</code>, <code>customers</code>, <code>geo_lookup</code>, and <code>order_status</code>, containing approximately 113,000 records.
     <br><br>
-    <img src="https://github.com/user-attachments/assets/1e98cf54-7e78-42a3-85ab-0f34f36f789c" />
-" width="70%" />
+    <img src="https://github.com/user-attachments/assets/1e98cf54-7e78-42a3-85ab-0f34f36f789c" width="70%" />
   </div>
 </table>
 
